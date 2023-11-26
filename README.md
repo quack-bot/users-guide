@@ -17,4 +17,8 @@ FOR SUPPORT: email kylecartmell@gmail.com
 
 📖 User's Guide 🪧
 
-UNDER CONSTRUCTION
+!!! UNDER CONSTRUCTION !!!
+
+Considerations:
+  - if you're not sure how to do a thing because you don't know some syntax or some API then quack-bot can help you
+  - if you're not sure how to do a thing because you don't really know what you should do, quack-bot is going to help you make a mess - go spend some time thinking first!
